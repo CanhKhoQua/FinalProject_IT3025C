@@ -1,0 +1,2700 @@
+{
+  "eggs": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Simple Truth",
+        "category": "Dairy",
+        "description": "Simple Truth\u2122 Natural Cage Free Grade A Large Brown Eggs",
+        "size": "18 ct",
+        "price": 5.49,
+        "on_sale": false,
+        "unit_price": 0.305,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Dairy",
+        "description": "Kroger\u00ae Grade A Extra Large Eggs",
+        "size": "12 ct",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.166,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Dairy",
+        "description": "Kroger\u00ae Grade A Large Eggs",
+        "size": "18 ct",
+        "price": 2.38,
+        "on_sale": false,
+        "unit_price": 0.132,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Dairy",
+        "description": "Kroger\u00ae Grade A Large Eggs",
+        "size": "12 ct",
+        "price": 1.59,
+        "on_sale": false,
+        "unit_price": 0.133,
+        "unit": "ct"
+      },
+      {
+        "brand": "Simple Truth",
+        "category": "Dairy",
+        "description": "Simple Truth\u2122 Natural Cage Free Grade A Large Brown Eggs",
+        "size": "12 ct",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.333,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Dairy",
+        "description": "Kroger\u00ae Grade A Jumbo Eggs 12 Count",
+        "size": "12 ct",
+        "price": 2.19,
+        "on_sale": false,
+        "unit_price": 0.182,
+        "unit": "ct"
+      },
+      {
+        "brand": "Vital Farms",
+        "category": "Dairy",
+        "description": "Vital Farms\u00ae Pasture-Raised Large Brown Eggs",
+        "size": "12 ct",
+        "price": 7.49,
+        "on_sale": false,
+        "unit_price": 0.624,
+        "unit": "ct"
+      },
+      {
+        "brand": "Eggland's Best",
+        "category": "Dairy",
+        "description": "Eggland's Best Grade A Large Eggs",
+        "size": "12 ct",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.416,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Dairy",
+        "description": "Kroger\u00ae Grade A Large Eggs",
+        "size": "60 ct",
+        "price": 8.75,
+        "on_sale": false,
+        "unit_price": 0.146,
+        "unit": "ct"
+      },
+      {
+        "brand": "Simple Truth Organic",
+        "category": "Dairy",
+        "description": "Simple Truth Organic\u2122 Cage Free Grade A Large Brown Eggs",
+        "size": "12 ct",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.416,
+        "unit": "ct"
+      },
+      {
+        "brand": "Vital Farms",
+        "category": "Dairy",
+        "description": "Vital Farms Organic Pasture-Raised Grade A Large Eggs",
+        "size": "12 ct",
+        "price": 9.99,
+        "on_sale": false,
+        "unit_price": 0.833,
+        "unit": "ct"
+      },
+      {
+        "brand": "Happy Egg Co.",
+        "category": "Dairy",
+        "description": "Happy Egg Co.\u00ae Free Range Grade A Large Brown Eggs",
+        "size": "12 ct",
+        "price": 6.29,
+        "on_sale": false,
+        "unit_price": 0.524,
+        "unit": "ct"
+      },
+      {
+        "brand": "Eggland's Best",
+        "category": "Dairy",
+        "description": "Eggland's Best Large White Eggs",
+        "size": "18 ct",
+        "price": 6.79,
+        "on_sale": false,
+        "unit_price": 0.377,
+        "unit": "ct"
+      },
+      {
+        "brand": "Eggland's Best",
+        "category": "Dairy",
+        "description": "Eggland's Best Organic Cage Free Grade A Large Brown Eggs",
+        "size": "12 ct",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "ct"
+      },
+      {
+        "brand": "Nellie's",
+        "category": "Dairy",
+        "description": "Nellie's Free Range Grade A Large Eggs",
+        "size": "12 ct",
+        "price": 5.59,
+        "on_sale": true,
+        "unit_price": 0.466,
+        "unit": "ct"
+      },
+      {
+        "brand": "Eggland's Best",
+        "category": "Dairy",
+        "description": "Eggland's Best Grade A Extra Large Eggs",
+        "size": "12 ct",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.416,
+        "unit": "ct"
+      },
+      {
+        "brand": "Pete and Gerrys",
+        "category": "Dairy",
+        "description": "Pete and Gerry's Organic Free Range Large Eggs",
+        "size": "12 ct",
+        "price": 5.99,
+        "on_sale": true,
+        "unit_price": 0.499,
+        "unit": "ct"
+      },
+      {
+        "brand": "Eggland's Best",
+        "category": "Dairy",
+        "description": "tbd City Great Vehicles 60383",
+        "size": "10",
+        "price": 5.49,
+        "on_sale": false,
+        "unit_price": null,
+        "unit": null
+      },
+      {
+        "brand": "Kroger",
+        "category": "Dairy",
+        "description": "Kroger\u00ae Hard Cooked Peeled Eggs 6 Count",
+        "size": "6 ct",
+        "price": 4.79,
+        "on_sale": false,
+        "unit_price": 0.798,
+        "unit": "ct"
+      }
+    ]
+  },
+  "bread": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Wonder",
+        "category": "Bakery",
+        "description": "Wonder Classic White Sliced Bread",
+        "size": "20 oz",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.165,
+        "unit": "oz"
+      },
+      {
+        "brand": "Mission",
+        "category": "International",
+        "description": "Mission\u00ae Soft Taco Flour Tortillas",
+        "size": "10 ct / 17.5 oz",
+        "price": 2.99,
+        "on_sale": false,
+        "unit_price": 0.299,
+        "unit": "ct"
+      },
+      {
+        "brand": "Nature's Own",
+        "category": "Bakery",
+        "description": "Nature's Own\u00ae Honey Wheat Sliced Bread",
+        "size": "20 oz",
+        "price": 2.99,
+        "on_sale": true,
+        "unit_price": 0.15,
+        "unit": "oz"
+      },
+      {
+        "brand": "Thomas'",
+        "category": "Breakfast",
+        "description": "Thomas' Original English Muffins",
+        "size": "6 ct / 13 oz",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.748,
+        "unit": "ct"
+      },
+      {
+        "brand": "Sister Schubert's",
+        "category": "Unknown",
+        "description": "Sister Schubert's Dinner Yeast Rolls 10 Count",
+        "size": "15 oz",
+        "price": 4.79,
+        "on_sale": false,
+        "unit_price": 0.319,
+        "unit": "oz"
+      },
+      {
+        "brand": "Thomas'",
+        "category": "Breakfast",
+        "description": "Thomas' Pre-Sliced Plain Bagels",
+        "size": "6 ct / 20 oz",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.748,
+        "unit": "ct"
+      },
+      {
+        "brand": "Sara Lee",
+        "category": "Bakery",
+        "description": "Sara Lee Honey Wheat Bread",
+        "size": "20 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.2,
+        "unit": "oz"
+      },
+      {
+        "brand": "Ball Park",
+        "category": "Bakery",
+        "description": "Ball Park Bakery Fresh White Hot Dog Buns",
+        "size": "8 ct / 13 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "ct"
+      },
+      {
+        "brand": "Bakery Fresh Goodness",
+        "category": "Bakery",
+        "description": "Bakery Fresh Goodness Bolillo Roll",
+        "size": "1 ct",
+        "price": 0.5,
+        "on_sale": false,
+        "unit_price": 0.5,
+        "unit": "ct"
+      },
+      {
+        "brand": "Ball Park",
+        "category": "Bakery",
+        "description": "Ball Park White Hamburger Buns",
+        "size": "8 ct / 15 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "ct"
+      },
+      {
+        "brand": "Sunbeam",
+        "category": "Bakery",
+        "description": "Sunbeam Giant White Bread",
+        "size": "24 oz",
+        "price": 2.59,
+        "on_sale": false,
+        "unit_price": 0.108,
+        "unit": "oz"
+      },
+      {
+        "brand": "Sister Schubert's",
+        "category": "Frozen",
+        "description": "Sister Schubert's Bake & Serve Parker House Style Yeast Rolls",
+        "size": "11 oz",
+        "price": 4.79,
+        "on_sale": false,
+        "unit_price": 0.435,
+        "unit": "oz"
+      },
+      {
+        "brand": "Bakery Fresh Goodness",
+        "category": "Breakfast",
+        "description": "Bakery Fresh Goodness Blueberry Muffins",
+        "size": "4 ct / 15 oz",
+        "price": 5,
+        "on_sale": false,
+        "unit_price": 1.25,
+        "unit": "ct"
+      },
+      {
+        "brand": "Nature's Own",
+        "category": "Bakery",
+        "description": "Nature's Own Butterbread",
+        "size": "20 oz",
+        "price": 4.29,
+        "on_sale": false,
+        "unit_price": 0.214,
+        "unit": "oz"
+      },
+      {
+        "brand": "California Goldminer",
+        "category": "Bakery",
+        "description": "California Goldminer Sourdough Square Bread",
+        "size": "24 oz",
+        "price": 5.49,
+        "on_sale": false,
+        "unit_price": 0.229,
+        "unit": "oz"
+      },
+      {
+        "brand": "Guerrero",
+        "category": "International",
+        "description": "Guerrero White Corn Tortillas 80 Count",
+        "size": "80 ct / 66.7 oz",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.056,
+        "unit": "ct"
+      },
+      {
+        "brand": "Entenmann's Little Bites",
+        "category": "Breakfast",
+        "description": "Entenmann's Little Bites Chocolate Chip Mini Muffins Pouches",
+        "size": "5 ct / 8.25 oz",
+        "price": 5.79,
+        "on_sale": false,
+        "unit_price": 1.158,
+        "unit": "ct"
+      },
+      {
+        "brand": "Mission",
+        "category": "International",
+        "description": "Mission\u00ae Carb Balance\u00ae Soft Taco Flour Tortillas",
+        "size": "8 ct / 12 oz",
+        "price": 5.49,
+        "on_sale": false,
+        "unit_price": 0.686,
+        "unit": "ct"
+      },
+      {
+        "brand": "Mission",
+        "category": "International",
+        "description": "Mission\u00ae Fajita Super Soft Flour Tortillas",
+        "size": "20 ct / 23 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.2,
+        "unit": "ct"
+      },
+      {
+        "brand": "Guerrero",
+        "category": "International",
+        "description": "Guerrero Tostadas Caseras Amarillas",
+        "size": "12.8 oz",
+        "price": 2.89,
+        "on_sale": false,
+        "unit_price": 0.226,
+        "unit": "oz"
+      }
+    ]
+  },
+  "butter": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Kroger",
+        "category": "Dairy",
+        "description": "Kroger\u00ae Salted Butter Sticks",
+        "size": "4 ct",
+        "price": 3.49,
+        "on_sale": false,
+        "unit_price": 0.873,
+        "unit": "ct"
+      },
+      {
+        "brand": "Blue Bonnet",
+        "category": "Dairy",
+        "description": "Blue Bonnet Vegetable Oil Spread Sticks",
+        "size": "1 lb",
+        "price": 1.39,
+        "on_sale": false,
+        "unit_price": 0.087,
+        "unit": "oz"
+      },
+      {
+        "brand": "Imperial",
+        "category": "Dairy",
+        "description": "Imperial Vegetable Oil Spread Sticks",
+        "size": "4 sticks / 16 oz",
+        "price": 1.39,
+        "on_sale": false,
+        "unit_price": null,
+        "unit": null
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O Lakes\u00ae Salted Butter Sticks",
+        "size": "1 lb",
+        "price": 5.29,
+        "on_sale": false,
+        "unit_price": 0.331,
+        "unit": "oz"
+      },
+      {
+        "brand": "Country Crock",
+        "category": "Dairy",
+        "description": "Country Crock Original Vegetable Oil Spread",
+        "size": "15 oz",
+        "price": 3.49,
+        "on_sale": false,
+        "unit_price": 0.233,
+        "unit": "oz"
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O\u2019 Lakes Half Stick Salted Butter",
+        "size": "8 ct / 2 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.624,
+        "unit": "ct"
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O' Lakes\u00ae Unsalted Butter Sticks",
+        "size": "4 ct / 4 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 1.248,
+        "unit": "ct"
+      },
+      {
+        "brand": "I Can't Believe It's Not Butter!",
+        "category": "Dairy",
+        "description": "I Can\u2019t Believe It\u2019s Not Butter, NutriRich Original Vegetable Oil Spread",
+        "size": "15 oz",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.299,
+        "unit": "oz"
+      },
+      {
+        "brand": "Challenge",
+        "category": "Dairy",
+        "description": "Challenge Butter\u00ae Salted Butter",
+        "size": "1 lb",
+        "price": 5.39,
+        "on_sale": true,
+        "unit_price": 0.337,
+        "unit": "oz"
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O\u2019 Lakes\u00ae Unsalted Half Stick Butter",
+        "size": "16 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.312,
+        "unit": "oz"
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O\u2019 Lakes Olive Oil & Sea Salt Butter Spread",
+        "size": "13 oz",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.461,
+        "unit": "oz"
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O\u2019 Lakes Olive Oil and Sea Salt Butter Spread",
+        "size": "7 oz",
+        "price": 3.49,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "oz"
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O' Lakes Butter with Canola Oil",
+        "size": "24 oz",
+        "price": 6.99,
+        "on_sale": false,
+        "unit_price": 0.291,
+        "unit": "oz"
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O' Lakes Olive Oil & Sea Salt Spreadable Butter",
+        "size": "21 oz",
+        "price": 7.99,
+        "on_sale": false,
+        "unit_price": 0.38,
+        "unit": "oz"
+      },
+      {
+        "brand": "Country Crock",
+        "category": "Dairy",
+        "description": "Country Crock Dairy Free Olive Oil Plant Butter",
+        "size": "16 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.312,
+        "unit": "oz"
+      },
+      {
+        "brand": "Challenge",
+        "category": "Dairy",
+        "description": "Challenge Unsalted Butter",
+        "size": "1 lb",
+        "price": 5.39,
+        "on_sale": true,
+        "unit_price": 0.337,
+        "unit": "oz"
+      }
+    ]
+  },
+  "cheese": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Shredded Mexican Style Cheese Blend",
+        "size": "8 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.25,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Shredded Sharp Cheddar Cheese",
+        "size": "8 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.25,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Shredded Parmesan Cheese",
+        "size": "6 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.333,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Whole Milk Shredded Mozzarella Cheese",
+        "size": "8 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.25,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kraft",
+        "category": "Automotive",
+        "description": "Kraft SINGLES American Cheese Slices",
+        "size": "16 ct",
+        "price": 4.29,
+        "on_sale": false,
+        "unit_price": 0.268,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Shredded Low-Moisture Mozzarella Cheese",
+        "size": "8 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.25,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Colby Jack Shredded Cheese",
+        "size": "8 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.25,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Colby Jack Cheese Slices",
+        "size": "6 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.333,
+        "unit": "oz"
+      },
+      {
+        "brand": "Philadelphia",
+        "category": "Automotive",
+        "description": "Philadelphia Original Cream Cheese",
+        "size": "8 oz",
+        "price": 2.49,
+        "on_sale": true,
+        "unit_price": 0.311,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Original Cream Cheese",
+        "size": "8 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.249,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Shredded Mild Cheddar Cheese",
+        "size": "8 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.25,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Manufactured in a facility that also processes nuts and soy.",
+        "size": "24 oz",
+        "price": 3.19,
+        "on_sale": false,
+        "unit_price": 0.133,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Original Cream Cheese",
+        "size": "2 ct / 8 oz each",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 1.645,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Kroger\u00ae Grated Parmesan Cheese",
+        "size": "8 oz",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.411,
+        "unit": "oz"
+      },
+      {
+        "brand": "Philadelphia",
+        "category": "Automotive",
+        "description": "Philadelphia Original Cream Cheese",
+        "size": "2 ct",
+        "price": 5.49,
+        "on_sale": false,
+        "unit_price": 2.745,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Pepper Jack Cheese Slices",
+        "size": "6 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.333,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Mexican Style Blend Shredded Cheese",
+        "size": "16 oz",
+        "price": 3.69,
+        "on_sale": false,
+        "unit_price": 0.231,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Colby Jack Cheese Bar",
+        "size": "8 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.25,
+        "unit": "oz"
+      },
+      {
+        "brand": "Good Culture",
+        "category": "Automotive",
+        "description": "Good Culture Simply Cottage Cheese, 2% Milkfat, 16 oz",
+        "size": "16 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.249,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Medium Cheddar Cheese Slices",
+        "size": "6 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.333,
+        "unit": "oz"
+      }
+    ]
+  },
+  "yogurt": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Fage",
+        "category": "Dairy",
+        "description": "Fage Total 0% Milkfat Plain Greek Yogurt",
+        "size": "32 oz",
+        "price": 7.29,
+        "on_sale": false,
+        "unit_price": 0.228,
+        "unit": "oz"
+      },
+      {
+        "brand": "Yoplait",
+        "category": "Dairy",
+        "description": "Yoplait\u00ae Gluten Free Original Harvest Peach Low Fat Yogurt",
+        "size": "6 oz",
+        "price": 0.8,
+        "on_sale": false,
+        "unit_price": 0.133,
+        "unit": "oz"
+      },
+      {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani Mixed Berry on the Bottom Low Fat Vanilla Greek Yogurt 4 Count",
+        "size": "4 ct / 5.3 oz",
+        "price": 5.49,
+        "on_sale": false,
+        "unit_price": 1.373,
+        "unit": "ct"
+      },
+      {
+        "brand": "Oikos",
+        "category": "Dairy",
+        "description": "Dannon Oikos Triple Zero Vanilla Blended Greek Yogurt 4 Count",
+        "size": "1.32 lb",
+        "price": 5.19,
+        "on_sale": true,
+        "unit_price": 0.246,
+        "unit": "oz"
+      },
+      {
+        "brand": "Yoplait",
+        "category": "Dairy",
+        "description": "Yoplait\u00ae Low Fat Original Strawberry Yogurt",
+        "size": "6 oz",
+        "price": 0.8,
+        "on_sale": false,
+        "unit_price": 0.133,
+        "unit": "oz"
+      },
+      {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani Flip Cookie Dough Low-Fat Greek Yogurt",
+        "size": "5.3 oz",
+        "price": 1.79,
+        "on_sale": false,
+        "unit_price": 0.338,
+        "unit": "oz"
+      },
+      {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani\u00ae Non-Fat Vanilla Greek Yogurt",
+        "size": "32 oz",
+        "price": 6.79,
+        "on_sale": false,
+        "unit_price": 0.212,
+        "unit": "oz"
+      },
+      {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani Flip S'more S'mores Low-Fat Greek Yogurt",
+        "size": "5.3 oz",
+        "price": 1.79,
+        "on_sale": false,
+        "unit_price": 0.338,
+        "unit": "oz"
+      },
+      {
+        "brand": "Yoplait",
+        "category": "Dairy",
+        "description": "Yoplait\u00ae Original Cherry Orchard Low Fat Yogurt",
+        "size": "6 oz",
+        "price": 0.8,
+        "on_sale": false,
+        "unit_price": 0.133,
+        "unit": "oz"
+      },
+      {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani Flip Peanut Butter Cup Low-Fat Greek Yogurt",
+        "size": "5.3 oz",
+        "price": 1.79,
+        "on_sale": false,
+        "unit_price": 0.338,
+        "unit": "oz"
+      },
+      {
+        "brand": "Yoplait",
+        "category": "Dairy",
+        "description": "Yoplait\u2122 Original Low Fat Strawberry Banana Yogurt Cup",
+        "size": "6 oz",
+        "price": 0.8,
+        "on_sale": false,
+        "unit_price": 0.133,
+        "unit": "oz"
+      },
+      {
+        "brand": "Fage",
+        "category": "Dairy",
+        "description": "Fage Total 2% Greek Strained Yogurt",
+        "size": "35.3 oz",
+        "price": 7.29,
+        "on_sale": false,
+        "unit_price": 0.207,
+        "unit": "oz"
+      },
+      {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani\u00ae Flip\u00ae Low-Fat Key Lime Crumble\u2122 Greek Yogurt",
+        "size": "4.5 oz",
+        "price": 1.79,
+        "on_sale": false,
+        "unit_price": 0.398,
+        "unit": "oz"
+      },
+      {
+        "brand": "Yoplait",
+        "category": "Dairy",
+        "description": "Yoplait\u00ae Gluten Free Original French Vanilla Low Fat Yogurt",
+        "size": "6 oz",
+        "price": 0.8,
+        "on_sale": false,
+        "unit_price": 0.133,
+        "unit": "oz"
+      },
+      {
+        "brand": "Yoplait",
+        "category": "Dairy",
+        "description": "Yoplait\u00ae Gluten Free Original Mountain Blueberry Low Fat Yogurt",
+        "size": "6 oz",
+        "price": 0.8,
+        "on_sale": false,
+        "unit_price": 0.133,
+        "unit": "oz"
+      },
+      {
+        "brand": "Yoplait",
+        "category": "Dairy",
+        "description": "Yoplait\u00ae Original Mixed Berry Low Fat Yogurt",
+        "size": "6 oz",
+        "price": 0.8,
+        "on_sale": false,
+        "unit_price": 0.133,
+        "unit": "oz"
+      },
+      {
+        "brand": "The Greek Gods",
+        "category": "Dairy",
+        "description": "The Greek Gods Honey Vanilla Greek Style Yogurt",
+        "size": "24 oz",
+        "price": 4.79,
+        "on_sale": false,
+        "unit_price": 0.2,
+        "unit": "oz"
+      },
+      {
+        "brand": "Fage",
+        "category": "Dairy",
+        "description": "Fage Total 5% Greek Strained Yogurt",
+        "size": "32 oz",
+        "price": 7.29,
+        "on_sale": false,
+        "unit_price": 0.228,
+        "unit": "oz"
+      }
+    ]
+  },
+  "pasta": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Kroger",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Kroger\u00ae Spaghetti",
+        "size": "16 oz",
+        "price": 1.25,
+        "on_sale": true,
+        "unit_price": 0.078,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Kroger\u00ae Grated Parmesan Cheese",
+        "size": "8 oz",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.411,
+        "unit": "oz"
+      },
+      {
+        "brand": "Barilla",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Barilla Spaghetti Pasta",
+        "size": "16 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.124,
+        "unit": "oz"
+      },
+      {
+        "brand": "Maruchan",
+        "category": "Canned & Packaged",
+        "description": "Maruchan\u00ae Instant Lunch Chicken Flavor Ramen Noodle Soup Case Sale",
+        "size": "27 oz",
+        "price": 7.99,
+        "on_sale": false,
+        "unit_price": 0.296,
+        "unit": "oz"
+      },
+      {
+        "brand": "Maruchan",
+        "category": "Canned & Packaged",
+        "description": "Maruchan\u00ae Ramen Noodle Soup Chicken Flavor Instant Noodles Souper 6",
+        "size": "1 ea",
+        "price": 2.69,
+        "on_sale": false,
+        "unit_price": null,
+        "unit": null
+      },
+      {
+        "brand": "Barilla",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Barilla Penne Pasta",
+        "size": "16 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.124,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Kroger\u00ae Extra Wide Egg Noodles",
+        "size": "16 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.125,
+        "unit": "oz"
+      },
+      {
+        "brand": "Barilla",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Barilla Fettuccine Pasta",
+        "size": "16 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.124,
+        "unit": "oz"
+      },
+      {
+        "brand": "Barilla",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Barilla Rotini Pasta",
+        "size": "16 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.124,
+        "unit": "oz"
+      },
+      {
+        "brand": "Rao's",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Rao's Homemade Marinara Sauce",
+        "size": "24 oz",
+        "price": 7.99,
+        "on_sale": false,
+        "unit_price": 0.333,
+        "unit": "oz"
+      },
+      {
+        "brand": "Barilla",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Barilla Thin Spaghetti Pasta",
+        "size": "16 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.124,
+        "unit": "oz"
+      },
+      {
+        "brand": "Maruchan",
+        "category": "Canned & Packaged",
+        "description": "Maruchan Beef Flavored Ramen Noodle Soup 12 Count",
+        "size": "12 ct / 3 oz",
+        "price": 3.5,
+        "on_sale": true,
+        "unit_price": 0.292,
+        "unit": "ct"
+      },
+      {
+        "brand": "Prego (3953)",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Prego Roasted Garlic & Herb Italian Pasta Sauce",
+        "size": "24 oz",
+        "price": 2.79,
+        "on_sale": false,
+        "unit_price": 0.116,
+        "unit": "oz"
+      },
+      {
+        "brand": "Ragu",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Ragu Old World Style Traditional Pasta Sauce",
+        "size": "24 oz",
+        "price": 2,
+        "on_sale": true,
+        "unit_price": 0.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Tuna Helper",
+        "category": "Canned & Packaged",
+        "description": "Tuna Helper Tuna Creamy Broccoli Pasta Mix",
+        "size": "6.4 oz",
+        "price": 1.49,
+        "on_sale": true,
+        "unit_price": 0.233,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Kroger\u00ae Thin Spaghetti Pasta",
+        "size": "16 oz",
+        "price": 1.25,
+        "on_sale": true,
+        "unit_price": 0.078,
+        "unit": "oz"
+      },
+      {
+        "brand": "Barilla",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Barilla Angel Hair Pasta",
+        "size": "16 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.124,
+        "unit": "oz"
+      },
+      {
+        "brand": "Barilla",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Barilla Elbows Pasta",
+        "size": "16 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.124,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Kroger\u00ae Salad Rotini Pasta",
+        "size": "16 oz",
+        "price": 1.25,
+        "on_sale": true,
+        "unit_price": 0.078,
+        "unit": "oz"
+      },
+      {
+        "brand": "Maruchan",
+        "category": "Canned & Packaged",
+        "description": "Maruchan Instant Lunch Shrimp Flavor Ramen Noodle Soup 12 Count",
+        "size": "12 ct / 2.25 oz",
+        "price": 7.99,
+        "on_sale": false,
+        "unit_price": 0.666,
+        "unit": "ct"
+      }
+    ]
+  },
+  "cereal": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Unknown",
+        "category": "Other New",
+        "description": "Test",
+        "size": "24 bottles / 16.9 fl oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": null,
+        "unit": null
+      },
+      {
+        "brand": "Coca-Cola Zero Sugar",
+        "category": "Other New",
+        "description": "Coca-Cola Zero Sugar Diet Soda Fridge Pack",
+        "size": "12 pk / 12 fl oz",
+        "price": 11.99,
+        "on_sale": false,
+        "unit_price": null,
+        "unit": null
+      },
+      {
+        "brand": "Cheerios",
+        "category": "Other New",
+        "description": "Big G Cereal Honey Nut Cheerios Gluten Free Cereal",
+        "size": "10.8 oz",
+        "price": 3.79,
+        "on_sale": true,
+        "unit_price": 0.351,
+        "unit": "oz"
+      },
+      {
+        "brand": "Cinnamon Toast Crunch",
+        "category": "Other New",
+        "description": "Big G Cereal Original Cinnamon Toast Crunch Breakfast Cereal",
+        "size": "12 oz",
+        "price": 3.79,
+        "on_sale": true,
+        "unit_price": 0.316,
+        "unit": "oz"
+      },
+      {
+        "brand": "Lucky Charms",
+        "category": "Other New",
+        "description": "Lucky Charms Gluten Free Frosted Oat & Marshmallow Cereal",
+        "size": "10.5 oz",
+        "price": 3.79,
+        "on_sale": true,
+        "unit_price": 0.361,
+        "unit": "oz"
+      },
+      {
+        "brand": "Cheerios",
+        "category": "Other New",
+        "description": "Big G Cereal Original Cheerios Gluten Free Cereal",
+        "size": "8.9 oz",
+        "price": 3.79,
+        "on_sale": true,
+        "unit_price": 0.426,
+        "unit": "oz"
+      },
+      {
+        "brand": "Reese's Puffs",
+        "category": "Other New",
+        "description": "Reese's Puffs Peanut Butter and Chocolate Whole Grain Breakfast Cereal",
+        "size": "11.5 oz",
+        "price": 3.79,
+        "on_sale": true,
+        "unit_price": 0.33,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Snacks",
+        "description": "Kroger\u00ae Sweet & Salty Peanut Granola Bars 18 Count",
+        "size": "22.22 oz",
+        "price": 7.29,
+        "on_sale": false,
+        "unit_price": 0.328,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Breakfast",
+        "description": "Kroger\u00ae Fruit and Grain Strawberry Cereal Bars",
+        "size": "8 ct / 1.3 oz",
+        "price": 2.49,
+        "on_sale": false,
+        "unit_price": 0.311,
+        "unit": "ct"
+      },
+      {
+        "brand": "Post",
+        "category": "Other New",
+        "description": "Post Cocoa Pebbles Chocolate Flavored Rice Cereal",
+        "size": "11 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.363,
+        "unit": "oz"
+      },
+      {
+        "brand": "Cheerios",
+        "category": "Other New",
+        "description": "Cheerios Toasted Whole Grain Oat Cereal",
+        "size": "20 oz",
+        "price": 6.49,
+        "on_sale": true,
+        "unit_price": 0.325,
+        "unit": "oz"
+      },
+      {
+        "brand": "Cinnamon Toast Crunch",
+        "category": "Other New",
+        "description": "General Mills Cinnamon Toast Crunch Large Size Cereal",
+        "size": "16.8 oz",
+        "price": 5,
+        "on_sale": false,
+        "unit_price": 0.298,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Other New",
+        "description": "Kroger\u00ae Corn Flakes",
+        "size": "18 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 0.111,
+        "unit": "oz"
+      },
+      {
+        "brand": "Post",
+        "category": "Other New",
+        "description": "Post Fruity Pebbles Cereal",
+        "size": "15 oz",
+        "price": 5.29,
+        "on_sale": false,
+        "unit_price": 0.353,
+        "unit": "oz"
+      },
+      {
+        "brand": "Quaker",
+        "category": "Baking Goods",
+        "description": "Quaker Oats Old Fashioned Oatmeal",
+        "size": "42 oz",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.143,
+        "unit": "oz"
+      },
+      {
+        "brand": "Grape-Nuts",
+        "category": "Other New",
+        "description": "Grape Nuts, Original, No Added Sugar, Large Size Cereal",
+        "size": "20.5 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.243,
+        "unit": "oz"
+      },
+      {
+        "brand": "Quaker",
+        "category": "Other New",
+        "description": "Quaker\u00ae Quick 1 Minute Oats",
+        "size": "18 oz",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.183,
+        "unit": "oz"
+      },
+      {
+        "brand": "Quaker",
+        "category": "Other New",
+        "description": "Quaker\u2122 Oats 1 Minute Oatmeal",
+        "size": "42 oz",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.143,
+        "unit": "oz"
+      }
+    ]
+  },
+  "chicken breast": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Heritage Farm",
+        "category": "Meat & Seafood",
+        "description": "Heritage Farm Boneless Skinless Fresh Chicken Breast",
+        "size": "1 lb",
+        "price": 2.69,
+        "on_sale": false,
+        "unit_price": 0.168,
+        "unit": "oz"
+      },
+      {
+        "brand": "Simple Truth",
+        "category": "Meat & Seafood",
+        "description": "Simple Truth\u2122 Natural Chicken Breast Cutlets Thinly Sliced (4-6 per Pack)",
+        "size": "1 lb",
+        "price": 6.99,
+        "on_sale": false,
+        "unit_price": 0.437,
+        "unit": "oz"
+      },
+      {
+        "brand": "Simple Truth",
+        "category": "Meat & Seafood",
+        "description": "Simple Truth Natural Chicken Breasts",
+        "size": "1 lb",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.374,
+        "unit": "oz"
+      },
+      {
+        "brand": "Simple Truth",
+        "category": "Meat & Seafood",
+        "description": "Simple Truth\u00ae Natural Boneless & Skinless Fresh Chicken Breast Tenders",
+        "size": "1 lb",
+        "price": 6.99,
+        "on_sale": false,
+        "unit_price": 0.437,
+        "unit": "oz"
+      },
+      {
+        "brand": "Simple Truth Organic",
+        "category": "Meat & Seafood",
+        "description": "Simple Truth Organic\u2122 Air-Chilled Boneless Skinless Breast",
+        "size": "1 lb",
+        "price": 8.99,
+        "on_sale": false,
+        "unit_price": 0.562,
+        "unit": "oz"
+      },
+      {
+        "brand": "Perdue",
+        "category": "Meat & Seafood",
+        "description": "PERDUE\u00ae Fresh Boneless Skinless Chicken Breasts",
+        "size": "1 lb",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.312,
+        "unit": "oz"
+      },
+      {
+        "brand": "Tyson",
+        "category": "Meat & Seafood",
+        "description": "Tyson\u00ae All Natural Fresh Boneless Skinless Chicken Breasts",
+        "size": "1 lb",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.312,
+        "unit": "oz"
+      },
+      {
+        "brand": "Oscar Mayer",
+        "category": "Meat & Seafood",
+        "description": "Oscar Mayer Deli Fresh Rotisserie Seasoned Chicken Breast Deli Meat",
+        "size": "9 oz",
+        "price": 4.29,
+        "on_sale": true,
+        "unit_price": 0.477,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Frozen",
+        "description": "Kroger\u00ae Boneless Skinless Chicken Breasts with Rib Meat",
+        "size": "3 lb",
+        "price": 9.99,
+        "on_sale": true,
+        "unit_price": 0.208,
+        "unit": "oz"
+      },
+      {
+        "brand": "Tyson",
+        "category": "Meat & Seafood",
+        "description": "Tyson\u00ae All Natural Fresh Boneless Skinless Chicken Breasts with Rib Meat",
+        "size": "1 lb",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.281,
+        "unit": "oz"
+      },
+      {
+        "brand": "Perdue",
+        "category": "Meat & Seafood",
+        "description": "PERDUE\u00ae Fresh Boneless Skinless Chicken Breast Tenderloins",
+        "size": "1 lb",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.374,
+        "unit": "oz"
+      },
+      {
+        "brand": "Perdue",
+        "category": "Meat & Seafood",
+        "description": "Perdue 98% Fat Free Fresh Ground Chicken Breast",
+        "size": "1 lb",
+        "price": 5.49,
+        "on_sale": false,
+        "unit_price": 0.343,
+        "unit": "oz"
+      },
+      {
+        "brand": "Unknown",
+        "category": "Meat & Seafood",
+        "description": "Miller Boneless Skinless Chicken Breasts with Rib Meat (3 per Pack)",
+        "size": "1 lb",
+        "price": 6.99,
+        "on_sale": false,
+        "unit_price": 0.437,
+        "unit": "oz"
+      },
+      {
+        "brand": "Tyson",
+        "category": "Meat & Seafood",
+        "description": "Tyson All Natural Fresh Boneless Skinless Chicken Breast Tenderloins",
+        "size": "1 lb",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.374,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Adult Beverage",
+        "description": "Kroger\u00ae Premium Chicken Breast in Water Can",
+        "size": "5 oz",
+        "price": 1.39,
+        "on_sale": false,
+        "unit_price": 0.278,
+        "unit": "oz"
+      },
+      {
+        "brand": "Yummy",
+        "category": "Frozen",
+        "description": "Yummy Dino Buddies Dinosaur Shaped Chicken Breast Nuggets",
+        "size": "38 oz",
+        "price": 9.79,
+        "on_sale": false,
+        "unit_price": 0.258,
+        "unit": "oz"
+      },
+      {
+        "brand": "Perdue",
+        "category": "Meat & Seafood",
+        "description": "Perdue Fresh Cuts Thin Sliced Chicken Breasts Boneless & Skinless (3-4 per Pack)",
+        "size": "1 lb",
+        "price": 6.99,
+        "on_sale": false,
+        "unit_price": 0.437,
+        "unit": "oz"
+      },
+      {
+        "brand": "Private Selection",
+        "category": "Deli",
+        "description": "Private Selection\u00ae Golden Roasted Lower Sodium\u2020 Deli Chicken Breast Sliced",
+        "size": "1 lb",
+        "price": 11.99,
+        "on_sale": false,
+        "unit_price": 0.749,
+        "unit": "oz"
+      },
+      {
+        "brand": "Perdue",
+        "category": "Frozen",
+        "description": "Perdue Frozen Chicken Breast Tenders",
+        "size": "29 oz.",
+        "price": 7.99,
+        "on_sale": false,
+        "unit_price": 0.276,
+        "unit": "oz"
+      }
+    ]
+  },
+  "ground beef": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Kroger",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae 80/20 Ground Beef",
+        "size": "1 lb",
+        "price": 7.99,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae 93/7 Lean Ground Beef",
+        "size": "16 oz",
+        "price": 9.99,
+        "on_sale": false,
+        "unit_price": 0.624,
+        "unit": "oz"
+      },
+      {
+        "brand": "Homestyle",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae Lean Ground Beef Chuck 80/20 Homestyle Hamburger Patties",
+        "size": "10 ct / 35.2 oz",
+        "price": 10,
+        "on_sale": false,
+        "unit_price": 1.0,
+        "unit": "ct"
+      },
+      {
+        "brand": "Private Selection",
+        "category": "Meat & Seafood",
+        "description": "Private Selection\u00ae 80/20 Angus Ground Beef",
+        "size": "1 lb",
+        "price": 7.99,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "oz"
+      },
+      {
+        "brand": "Ball Park",
+        "category": "Bakery",
+        "description": "Ball Park White Hamburger Buns",
+        "size": "8 ct / 15 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae 85% Lean Fresh Ground Turkey",
+        "size": "16 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.312,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae 73/27 Ground Beef Roll",
+        "size": "1 lb",
+        "price": 6.49,
+        "on_sale": false,
+        "unit_price": 0.406,
+        "unit": "oz"
+      },
+      {
+        "brand": "Jennie-O",
+        "category": "Meat & Seafood",
+        "description": "Jennie-O All-Natural 93% Lean Ground Turkey",
+        "size": "1 lb",
+        "price": 6.99,
+        "on_sale": false,
+        "unit_price": 0.437,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae 93/7 Lean Ground Beef Roll",
+        "size": "1 lb",
+        "price": 9.49,
+        "on_sale": false,
+        "unit_price": 0.593,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae Traditional Breakfast Sausage Patties",
+        "size": "12 oz",
+        "price": 2.99,
+        "on_sale": false,
+        "unit_price": 0.249,
+        "unit": "oz"
+      },
+      {
+        "brand": "Perdue",
+        "category": "Meat & Seafood",
+        "description": "Perdue Fresh Ground Chicken",
+        "size": "16 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.312,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae 73/27 Ground Beef Roll",
+        "size": "3 lb",
+        "price": 17.99,
+        "on_sale": false,
+        "unit_price": 0.375,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae 85/15 Lean Ground Beef",
+        "size": "16 oz",
+        "price": 8.99,
+        "on_sale": false,
+        "unit_price": 0.562,
+        "unit": "oz"
+      },
+      {
+        "brand": "Laura's Lean Beef",
+        "category": "Meat & Seafood",
+        "description": "Laura's Lean Beef All Natural 92% Lean Ground Beef",
+        "size": "1 lb",
+        "price": 10.99,
+        "on_sale": false,
+        "unit_price": 0.687,
+        "unit": "oz"
+      },
+      {
+        "brand": "St Pierre",
+        "category": "Bakery",
+        "description": "St Pierre Brioche Hamburger Buns 4 Count",
+        "size": "7 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.713,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Meat & Seafood",
+        "description": "Kroger\u00ae 73/27 Ground Beef Roll",
+        "size": "5 lb",
+        "price": 27.99,
+        "on_sale": false,
+        "unit_price": 0.35,
+        "unit": "oz"
+      },
+      {
+        "brand": "Wonder",
+        "category": "Bakery",
+        "description": "Wonder Classic Enriched Hamburger Buns 8 Count",
+        "size": "8 ct",
+        "price": 3.79,
+        "on_sale": false,
+        "unit_price": 0.474,
+        "unit": "ct"
+      },
+      {
+        "brand": "Private Selection",
+        "category": "Meat & Seafood",
+        "description": "Private Selection 90% Lean Angus Beef Ground Sirloin Patties",
+        "size": "4 ct / 16 oz",
+        "price": 10,
+        "on_sale": false,
+        "unit_price": 2.5,
+        "unit": "ct"
+      }
+    ]
+  },
+  "peanut butter": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Kroger",
+        "category": "Condiment & Sauces",
+        "description": "TK KMP Peanut Butter EA",
+        "size": "16 oz",
+        "price": 2.29,
+        "on_sale": false,
+        "unit_price": 0.143,
+        "unit": "oz"
+      },
+      {
+        "brand": "Jif",
+        "category": "Condiment & Sauces",
+        "description": "Jif Creamy Peanut Butter Spread",
+        "size": "16 oz",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.206,
+        "unit": "oz"
+      },
+      {
+        "brand": "Reese's",
+        "category": "Candy",
+        "description": "Reeses Milk Chocolate Peanut Butter Cup Standard Bar",
+        "size": "1.50oz",
+        "price": 1.59,
+        "on_sale": true,
+        "unit_price": 1.06,
+        "unit": "oz"
+      },
+      {
+        "brand": "Little Debbie",
+        "category": "Snacks",
+        "description": "Little Debbie Nutty Buddy Peanut Butter Wafers 12 Count",
+        "size": "12 ct / 1 oz\\",
+        "price": 3.19,
+        "on_sale": false,
+        "unit_price": 0.266,
+        "unit": "ct"
+      },
+      {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani Flip Peanut Butter Cup Low-Fat Greek Yogurt",
+        "size": "5.3 oz",
+        "price": 1.79,
+        "on_sale": false,
+        "unit_price": 0.338,
+        "unit": "oz"
+      },
+      {
+        "brand": "Reese's",
+        "category": "Candy",
+        "description": "REESE'S Milk Chocolate Peanut Butter Pumpkin Halloween Candy Pack",
+        "size": "1.2 oz",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": 1.658,
+        "unit": "oz"
+      },
+      {
+        "brand": "Reese's",
+        "category": "Candy",
+        "description": "REESE'S PIECES Peanut Butter in a Crunchy Shell Movie Theater Box Candy",
+        "size": "4 oz",
+        "price": 1.5,
+        "on_sale": false,
+        "unit_price": 0.375,
+        "unit": "oz"
+      },
+      {
+        "brand": "Reese's Puffs",
+        "category": "Other New",
+        "description": "Reese's Puffs Peanut Butter and Chocolate Whole Grain Breakfast Cereal",
+        "size": "11.5 oz",
+        "price": 3.79,
+        "on_sale": true,
+        "unit_price": 0.33,
+        "unit": "oz"
+      },
+      {
+        "brand": "Jif",
+        "category": "Condiment & Sauces",
+        "description": "Jif\u00ae Creamy Peanut Butter",
+        "size": "40 oz",
+        "price": 6.99,
+        "on_sale": true,
+        "unit_price": 0.175,
+        "unit": "oz"
+      },
+      {
+        "brand": "Uncrustables",
+        "category": "Frozen",
+        "description": "Smucker's Uncrustables Peanut Butter and Strawberry Jam Sandwich",
+        "size": "4 ct / 2.0 oz",
+        "price": 4.79,
+        "on_sale": false,
+        "unit_price": 1.198,
+        "unit": "ct"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Condiment & Sauces",
+        "description": "Independently tested and certified by NSF International.",
+        "size": "12 oz",
+        "price": 2.29,
+        "on_sale": false,
+        "unit_price": 0.191,
+        "unit": "oz"
+      },
+      {
+        "brand": "Uncrustables",
+        "category": "Frozen",
+        "description": "Smucker's\u00ae Uncrustables\u00ae Peanut Butter & Strawberry Jam Sandwiches",
+        "size": "10 ct / 2 oz",
+        "price": 10.49,
+        "on_sale": false,
+        "unit_price": 1.049,
+        "unit": "ct"
+      },
+      {
+        "brand": "Skippy",
+        "category": "Condiment & Sauces",
+        "description": "Skippy Creamy Peanut Butter",
+        "size": "16.3 oz",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.202,
+        "unit": "oz"
+      },
+      {
+        "brand": "Jif",
+        "category": "Condiment & Sauces",
+        "description": "Jif Natural Creamy Peanut Butter",
+        "size": "16 oz",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.206,
+        "unit": "oz"
+      },
+      {
+        "brand": "Keebler",
+        "category": "Snacks",
+        "description": "Keebler Toast & Peanut Butter Sandwich Crackers",
+        "size": "11.0 oz",
+        "price": 3.79,
+        "on_sale": false,
+        "unit_price": 0.345,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Condiment & Sauces",
+        "description": "Kroger\u00ae Natural Creamy Peanut Butter",
+        "size": "15 oz",
+        "price": 2.29,
+        "on_sale": false,
+        "unit_price": 0.153,
+        "unit": "oz"
+      },
+      {
+        "brand": "Jif",
+        "category": "Condiment & Sauces",
+        "description": "Jif Extra Crunchy Peanut Butter",
+        "size": "16 oz",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.206,
+        "unit": "oz"
+      },
+      {
+        "brand": "Reese's",
+        "category": "Candy",
+        "description": "REESE'S Milk Chocolate Peanut Butter Cups Candy Packs",
+        "size": "1.5 oz",
+        "price": 8.99,
+        "on_sale": false,
+        "unit_price": 5.993,
+        "unit": "oz"
+      },
+      {
+        "brand": "Haagen-Dazs",
+        "category": "Frozen",
+        "description": "Haagen-Dazs Chocolate Peanut Butter Ice Cream, 14oz",
+        "size": "14.0 fluid ounces",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": null,
+        "unit": null
+      },
+      {
+        "brand": "Ritz",
+        "category": "Other New",
+        "description": "Ritz Peanut Butter Sandwich Crackers",
+        "size": "11.04 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.452,
+        "unit": "oz"
+      }
+    ]
+  },
+  "orange juice": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Simply",
+        "category": "Breakfast",
+        "description": "Simply Pulp Free All Natural Orange Juice",
+        "size": "52 fl oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.096,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Simply",
+        "category": "Breakfast",
+        "description": "Simply Orange Pulp Free Juice",
+        "size": "89 fl oz",
+        "price": 7.49,
+        "on_sale": true,
+        "unit_price": 0.084,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Simply",
+        "category": "Breakfast",
+        "description": "Simply\u00ae Pulp-Free Orange Juice Bottle",
+        "size": "11.5 fl oz",
+        "price": 2.19,
+        "on_sale": false,
+        "unit_price": 0.19,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Breakfast",
+        "description": "Kroger\u00ae Original 100% Orange Juice from Concentrate",
+        "size": "1 gal",
+        "price": 7,
+        "on_sale": true,
+        "unit_price": 0.055,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Tropicana",
+        "category": "Breakfast",
+        "description": "Tropicana Orange Juice with Calcium + Vitamin D 89 oz Bottle",
+        "size": "89 fl oz",
+        "price": 8.29,
+        "on_sale": false,
+        "unit_price": 0.093,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Tropicana",
+        "category": "Breakfast",
+        "description": "Tropicana Orange Juice Homestyle Some Pulp Bottle",
+        "size": "89 fl oz",
+        "price": 8.29,
+        "on_sale": false,
+        "unit_price": 0.093,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Uncle Matt's",
+        "category": "Breakfast",
+        "description": "Uncle Matt's Organic Pulp Free Orange Juice",
+        "size": "52 fl oz",
+        "price": 8.99,
+        "on_sale": false,
+        "unit_price": 0.173,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Breakfast",
+        "description": "Kroger\u00ae Lite Orange Juice Beverage",
+        "size": "52 fl oz",
+        "price": 4.39,
+        "on_sale": false,
+        "unit_price": 0.084,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Tropicana",
+        "category": "Breakfast",
+        "description": "Tropicana Pure Premium Original No Pulp Orange Juice",
+        "size": "1 gal",
+        "price": 11.49,
+        "on_sale": false,
+        "unit_price": 0.09,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Uncle Matt's",
+        "category": "Breakfast",
+        "description": "Uncle Matt's Organic Orange Defense Juice Beverage",
+        "size": "52 fl oz",
+        "price": 7.99,
+        "on_sale": false,
+        "unit_price": 0.154,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Everfresh",
+        "category": "Breakfast",
+        "description": "Everfresh Orange Juice",
+        "size": "16 oz",
+        "price": 1.29,
+        "on_sale": false,
+        "unit_price": 0.081,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Breakfast",
+        "description": "Kroger\u00ae Cinnamon Swirls",
+        "size": "12.8 oz",
+        "price": 2.29,
+        "on_sale": false,
+        "unit_price": 0.179,
+        "unit": "oz"
+      },
+      {
+        "brand": "Tropicana",
+        "category": "Breakfast",
+        "description": "Tropicana Orange Juice Grovestand Lots of Pulp 52 oz Bottle",
+        "size": "52 fl oz",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.086,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Tropicana",
+        "category": "Breakfast",
+        "description": "Tropicana Pure Premium Non GMO, Original No Pulp Orange Fruit Juice",
+        "size": "52 fl oz",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.086,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Tropicana",
+        "category": "Breakfast",
+        "description": "Tropicana Orange Juice No Pulp with Calcium + Vitamin D 52 oz Bottle",
+        "size": "52 fl oz",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.086,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Tropicana",
+        "category": "Breakfast",
+        "description": "Tropicana Orange Juice Homestyle Some Pulp 52 oz Bottle",
+        "size": "52 fl oz",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.086,
+        "unit": "fl oz"
+      }
+    ]
+  },
+  "milk": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Kroger",
+        "category": "Beverages",
+        "description": "Kroger\u00ae 2% Reduced Fat Milk Gallon",
+        "size": "1 gal",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.026,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Automotive",
+        "description": "Kroger\u00ae Whole Milk Shredded Mozzarella Cheese",
+        "size": "8 oz",
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.25,
+        "unit": "oz"
+      },
+      {
+        "brand": "Betty Crocker",
+        "category": "Baking Goods",
+        "description": "Betty Crocker Milk Chocolate Brownie Mix",
+        "size": "18.4 oz",
+        "price": 1.5,
+        "on_sale": true,
+        "unit_price": 0.082,
+        "unit": "oz"
+      },
+      {
+        "brand": "Fairlife",
+        "category": "Beverages",
+        "description": "fairlife 2% Reduced Fat Lactose Free & High-Protein Ultra-Filtered Milk",
+        "size": "52 fl oz",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.115,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Beverages",
+        "description": "Kroger\u00ae Fat Free Skim Milk",
+        "size": "1 gal",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.026,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Fairlife",
+        "category": "Beverages",
+        "description": "Fairlife Milk 2% Chocolate",
+        "size": "52 fl oz",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.115,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Beverages",
+        "description": "Kroger\u00ae 1% Low Fat Chocolate Milk Jug",
+        "size": "1 gal",
+        "price": 4.29,
+        "on_sale": false,
+        "unit_price": 0.034,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Beverages",
+        "description": "Kroger\u00ae Lactose Free 2% Reduced Fat Milk",
+        "size": "1/2 gal",
+        "price": 3.49,
+        "on_sale": false,
+        "unit_price": 0.055,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Simple Truth Organic",
+        "category": "Beverages",
+        "description": "Simple Truth Organic\u00ae Whole Milk",
+        "size": "1/2 gal",
+        "price": 4.39,
+        "on_sale": false,
+        "unit_price": 0.069,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "10,000 Lakes",
+        "category": "Beverages",
+        "description": "Kro 2%rf Milk",
+        "size": "10 ounces",
+        "price": 1.99,
+        "on_sale": false,
+        "unit_price": null,
+        "unit": null
+      },
+      {
+        "brand": "Fage",
+        "category": "Dairy",
+        "description": "Fage Total 0% Milkfat Plain Greek Yogurt",
+        "size": "32 oz",
+        "price": 7.29,
+        "on_sale": false,
+        "unit_price": 0.228,
+        "unit": "oz"
+      },
+      {
+        "brand": "Fairlife",
+        "category": "Beverages",
+        "description": "Fairlife Whole Milk Ultra-Filtered",
+        "size": "52 fl oz",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.115,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Good Culture",
+        "category": "Automotive",
+        "description": "Good Culture Simply Cottage Cheese, 2% Milkfat, 16 oz",
+        "size": "16 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.249,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Baking Goods",
+        "description": "Kroger\u00ae Evaporated Milk",
+        "size": "12 fl oz",
+        "price": 1.19,
+        "on_sale": false,
+        "unit_price": 0.099,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Beverages",
+        "description": "Kroger\u00ae Grade A Chocolate Milk",
+        "size": "1/2 gal",
+        "price": 3.09,
+        "on_sale": false,
+        "unit_price": 0.048,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Simple Truth Organic",
+        "category": "Beverages",
+        "description": "Simple Truth Organic\u00ae 2% Reduced Fat Milk",
+        "size": "1/2 gal",
+        "price": 4.39,
+        "on_sale": false,
+        "unit_price": 0.069,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Reese's",
+        "category": "Candy",
+        "description": "Reeses Milk Chocolate Peanut Butter Cup Standard Bar",
+        "size": "1.50oz",
+        "price": 1.59,
+        "on_sale": true,
+        "unit_price": 1.06,
+        "unit": "oz"
+      },
+      {
+        "brand": "Cacique",
+        "category": "International",
+        "description": "Cacique Ranchero Queso Fresco Part Skim Milk Cheese",
+        "size": "10 oz",
+        "price": 2.99,
+        "on_sale": false,
+        "unit_price": 0.299,
+        "unit": "oz"
+      },
+      {
+        "brand": "Carnation",
+        "category": "Baking Goods",
+        "description": "Carnation Evaporated Milk",
+        "size": "12 fl oz",
+        "price": 2.19,
+        "on_sale": false,
+        "unit_price": 0.182,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Lactaid",
+        "category": "Beverages",
+        "description": "Lactaid 100% Lactose Free 2% Reduced Fat Milk",
+        "size": "96 fl oz",
+        "price": 6.99,
+        "on_sale": false,
+        "unit_price": 0.073,
+        "unit": "fl oz"
+      }
+    ]
+  },
+  "white rice": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Minute",
+        "category": "Beverages",
+        "description": "Minute Instant White Rice, Gluten-Free",
+        "size": "14 onz",
+        "price": 2.89,
+        "on_sale": false,
+        "unit_price": null,
+        "unit": null
+      },
+      {
+        "brand": "Lean Cuisine",
+        "category": "Frozen",
+        "description": "Lean Cuisine\u00ae Vermont White Cheddar Mac & Cheese Frozen Meal",
+        "size": "8 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "oz"
+      },
+      {
+        "brand": "Devour",
+        "category": "Frozen",
+        "description": "DEVOUR White Cheddar Mac & Cheese with Smoked Bacon Frozen Meal",
+        "size": "12 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.333,
+        "unit": "oz"
+      },
+      {
+        "brand": "RiceSelect",
+        "category": "Bed & Bath",
+        "description": "RiceSelect Royal Blend Texmati White Brown Wild & Red Rice",
+        "size": "21 oz",
+        "price": 8.29,
+        "on_sale": false,
+        "unit_price": 0.395,
+        "unit": "oz"
+      },
+      {
+        "brand": "Lundberg",
+        "category": "Bed & Bath",
+        "description": "Lundberg Family Farms\u00ae Regenerative Organic Certified\u00ae Jasmine White Rice",
+        "size": "32 oz",
+        "price": 6.49,
+        "on_sale": true,
+        "unit_price": 0.203,
+        "unit": "oz"
+      },
+      {
+        "brand": "4Sisters",
+        "category": "Bed & Bath",
+        "description": "4Sisters Organic Long Grain White Rice",
+        "size": "32 oz",
+        "price": 6.99,
+        "on_sale": false,
+        "unit_price": 0.218,
+        "unit": "oz"
+      },
+      {
+        "brand": "RiceSelect",
+        "category": "Bed & Bath",
+        "description": "RiceSelect Jasmati White Rice",
+        "size": "32 oz",
+        "price": 7.29,
+        "on_sale": false,
+        "unit_price": 0.228,
+        "unit": "oz"
+      },
+      {
+        "brand": "Lundberg",
+        "category": "Bed & Bath",
+        "description": "Lundberg Family Farms\u00ae Organic California White Basmati Rice",
+        "size": "32 oz",
+        "price": 6.49,
+        "on_sale": true,
+        "unit_price": 0.203,
+        "unit": "oz"
+      },
+      {
+        "brand": "Royal",
+        "category": "Bed & Bath",
+        "description": "Royal White Basmati Rice",
+        "size": "8.5 oz",
+        "price": 2.29,
+        "on_sale": false,
+        "unit_price": 0.269,
+        "unit": "oz"
+      },
+      {
+        "brand": "Riceland",
+        "category": "Bed & Bath",
+        "description": "Riceland Extra Long Grain White Rice",
+        "size": "2 lb",
+        "price": 2.19,
+        "on_sale": false,
+        "unit_price": 0.068,
+        "unit": "oz"
+      },
+      {
+        "brand": "Royal",
+        "category": "Bed & Bath",
+        "description": "Royal White Basmati Rice",
+        "size": "80 oz",
+        "price": 11.99,
+        "on_sale": false,
+        "unit_price": 0.15,
+        "unit": "oz"
+      },
+      {
+        "brand": "Tasty Bite",
+        "category": "Bed & Bath",
+        "description": "Tasty Bite Organic Steamed White Rice Pouch",
+        "size": "8.8 oz",
+        "price": 3.49,
+        "on_sale": false,
+        "unit_price": 0.397,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Snacks",
+        "description": "Kroger\u00ae White Cheddar Rice Cakes",
+        "size": "5.45 oz",
+        "price": 2.79,
+        "on_sale": false,
+        "unit_price": 0.512,
+        "unit": "oz"
+      },
+      {
+        "brand": "Supreme",
+        "category": "Adult Beverage",
+        "description": "Supreme White Long Grain Rice",
+        "size": "5 lb",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.05,
+        "unit": "oz"
+      },
+      {
+        "brand": "Pirate's Booty",
+        "category": "Snacks",
+        "description": "Pirate's Booty Aged White Cheddar Baked Rice & Corn Puffs",
+        "size": "1 oz",
+        "price": 51.75,
+        "on_sale": false,
+        "unit_price": 51.75,
+        "unit": "oz"
+      },
+      {
+        "brand": "Annie Chun's",
+        "category": "Canned & Packaged",
+        "description": "Annie Chun's White Sticky Rice",
+        "size": "7.4 oz",
+        "price": 2.79,
+        "on_sale": false,
+        "unit_price": 0.377,
+        "unit": "oz"
+      },
+      {
+        "brand": "Birds Eye",
+        "category": "Frozen",
+        "description": "Birds Eye Steamfresh Veggie Made Shell White Cheddar Mac and Cheese",
+        "size": "10 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.399,
+        "unit": "oz"
+      }
+    ]
+  },
+  "ground coffee": {
+    "store": "Kroger - University Plaza (1 W Corry St, Cincinnati)",
+    "zip_code": "45221",
+    "fetched_on": "2026-11-17",
+    "rows": [
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks Pike Place Medium Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 12.99,
+        "on_sale": false,
+        "unit_price": 1.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Cafe Bustelo",
+        "category": "Beverages",
+        "description": "Cafe Bustelo Espresso Ground Coffee",
+        "size": "10 oz",
+        "price": 7.79,
+        "on_sale": false,
+        "unit_price": 0.779,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Beverages",
+        "description": "Kroger\u00ae Premium Blend Medium Roast Coffee",
+        "size": "29 oz",
+        "price": 14.49,
+        "on_sale": false,
+        "unit_price": 0.5,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Beverages",
+        "description": "Kroger\u00ae Classic Decaf Medium Roast Ground Coffee",
+        "size": "25 oz",
+        "price": 14.49,
+        "on_sale": false,
+        "unit_price": 0.58,
+        "unit": "oz"
+      },
+      {
+        "brand": "Seattle's Best Coffee",
+        "category": "Beverages",
+        "description": "Seattle's Best Medium Roast Breakfast Blend Ground Coffee",
+        "size": "12 oz",
+        "price": 8.99,
+        "on_sale": true,
+        "unit_price": 0.749,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Beverages",
+        "description": "Kroger\u00ae Colombian Medium Dark Roast Coffee",
+        "size": "24 oz",
+        "price": 14.49,
+        "on_sale": false,
+        "unit_price": 0.604,
+        "unit": "oz"
+      },
+      {
+        "brand": "Dunkin' Donuts",
+        "category": "Beverages",
+        "description": "Dunkin' Donuts Original Blend Medium Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 11.99,
+        "on_sale": false,
+        "unit_price": 0.999,
+        "unit": "oz"
+      },
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks Breakfast Blend Medium Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 12.99,
+        "on_sale": false,
+        "unit_price": 1.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks Dark French Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 12.99,
+        "on_sale": false,
+        "unit_price": 1.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks\u00ae House Blend Medium Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 12.99,
+        "on_sale": false,
+        "unit_price": 1.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Unknown",
+        "description": "Kroger\u00ae Breakfast Blend Mild Roast Ground Coffee",
+        "size": "24 oz",
+        "price": 14.49,
+        "on_sale": false,
+        "unit_price": 0.604,
+        "unit": "oz"
+      },
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks Veranda Blend Blonde Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 12.99,
+        "on_sale": false,
+        "unit_price": 1.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Kauai Coffee",
+        "category": "Beverages",
+        "description": "Kauai Coffee Medium Roast Ground Coffee",
+        "size": "10 oz",
+        "price": 8.99,
+        "on_sale": true,
+        "unit_price": 0.899,
+        "unit": "oz"
+      },
+      {
+        "brand": "Seattle's Best Coffee",
+        "category": "Beverages",
+        "description": "Seattle's Best Post Alley Blend Dark Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 8.99,
+        "on_sale": true,
+        "unit_price": 0.749,
+        "unit": "oz"
+      },
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks\u00ae Single-Origin Sumatra Dark Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 12.99,
+        "on_sale": false,
+        "unit_price": 1.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks Breakfast Blend Medium Roast Ground Coffee K-Cup Pods 10 Count",
+        "size": "4.4 oz",
+        "price": 11.99,
+        "on_sale": false,
+        "unit_price": 2.725,
+        "unit": "oz"
+      },
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks Espresso Dark Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 12.99,
+        "on_sale": false,
+        "unit_price": 1.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Peet's Coffee",
+        "category": "Beverages",
+        "description": "Peet's Coffee Major Dickason's Dark Roast Ground Coffee",
+        "size": "10.5 oz",
+        "price": 13.99,
+        "on_sale": false,
+        "unit_price": 1.332,
+        "unit": "oz"
+      },
+      {
+        "brand": "Chock full o'Nuts",
+        "category": "Beverages",
+        "description": "Chock Full o' Nuts Original Medium Roast Ground Coffee",
+        "size": "26 oz",
+        "price": 14.99,
+        "on_sale": true,
+        "unit_price": 0.577,
+        "unit": "oz"
+      }
+    ]
+  }
+}

@@ -2087,27 +2087,27 @@
       {
         "brand": "Tropicana",
         "category": "Breakfast",
-        "description": "Tropicana Pure Premium Non GMO, Original No Pulp Orange Fruit Juice",
+        "description": "Tropicana Orange Juice Homestyle Some Pulp 52 oz Bottle",
         "size": "52 fl oz",
         "price": 4.49,
         "on_sale": false,
         "unit_price": 0.086,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Kroger",
+        "category": "Breakfast",
+        "description": "Kroger\u00ae 100% Orange Juice with Calcium",
+        "size": "52 fl oz",
+        "price": 4.29,
+        "on_sale": false,
+        "unit_price": 0.083,
         "unit": "fl oz"
       },
       {
         "brand": "Tropicana",
         "category": "Breakfast",
         "description": "Tropicana Orange Juice No Pulp with Calcium + Vitamin D 52 oz Bottle",
-        "size": "52 fl oz",
-        "price": 4.49,
-        "on_sale": false,
-        "unit_price": 0.086,
-        "unit": "fl oz"
-      },
-      {
-        "brand": "Tropicana",
-        "category": "Breakfast",
-        "description": "Tropicana Orange Juice Homestyle Some Pulp 52 oz Bottle",
         "size": "52 fl oz",
         "price": 4.49,
         "on_sale": false,
@@ -2479,16 +2479,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Annie Chun's",
-        "category": "Canned & Packaged",
-        "description": "Annie Chun's White Sticky Rice",
-        "size": "7.4 oz",
-        "price": 2.79,
-        "on_sale": false,
-        "unit_price": 0.377,
-        "unit": "oz"
-      },
-      {
         "brand": "Birds Eye",
         "category": "Frozen",
         "description": "Birds Eye Steamfresh Veggie Made Shell White Cheddar Mac and Cheese",
@@ -2496,6 +2486,16 @@
         "price": 3.99,
         "on_sale": false,
         "unit_price": 0.399,
+        "unit": "oz"
+      },
+      {
+        "brand": "Annie Chun's",
+        "category": "Canned & Packaged",
+        "description": "Annie Chun's White Sticky Rice",
+        "size": "7.4 oz",
+        "price": 2.79,
+        "on_sale": false,
+        "unit_price": 0.377,
         "unit": "oz"
       }
     ]

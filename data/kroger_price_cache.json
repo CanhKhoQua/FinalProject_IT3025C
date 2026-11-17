@@ -115,6 +115,16 @@
         "unit": "ct"
       },
       {
+        "brand": "Eggland's Best",
+        "category": "Dairy",
+        "description": "Eggland's Best Large White Eggs",
+        "size": "18 ct",
+        "price": 6.79,
+        "on_sale": false,
+        "unit_price": 0.377,
+        "unit": "ct"
+      },
+      {
         "brand": "Happy Egg Co.",
         "category": "Dairy",
         "description": "Happy Egg Co.\u00ae Free Range Grade A Large Brown Eggs",
@@ -127,20 +137,20 @@
       {
         "brand": "Eggland's Best",
         "category": "Dairy",
-        "description": "Eggland's Best Large White Eggs",
-        "size": "18 ct",
-        "price": 6.79,
-        "on_sale": false,
-        "unit_price": 0.377,
-        "unit": "ct"
-      },
-      {
-        "brand": "Eggland's Best",
-        "category": "Dairy",
         "description": "Eggland's Best Organic Cage Free Grade A Large Brown Eggs",
         "size": "12 ct",
         "price": 5.99,
         "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "ct"
+      },
+      {
+        "brand": "Pete and Gerrys",
+        "category": "Dairy",
+        "description": "Pete and Gerry's Organic Free Range Large Eggs",
+        "size": "12 ct",
+        "price": 5.99,
+        "on_sale": true,
         "unit_price": 0.499,
         "unit": "ct"
       },
@@ -162,16 +172,6 @@
         "price": 4.99,
         "on_sale": false,
         "unit_price": 0.416,
-        "unit": "ct"
-      },
-      {
-        "brand": "Pete and Gerrys",
-        "category": "Dairy",
-        "description": "Pete and Gerry's Organic Free Range Large Eggs",
-        "size": "12 ct",
-        "price": 5.99,
-        "on_sale": true,
-        "unit_price": 0.499,
         "unit": "ct"
       },
       {
@@ -272,16 +272,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Ball Park",
-        "category": "Bakery",
-        "description": "Ball Park Bakery Fresh White Hot Dog Buns",
-        "size": "8 ct / 13 oz",
-        "price": 3.99,
-        "on_sale": false,
-        "unit_price": 0.499,
-        "unit": "ct"
-      },
-      {
         "brand": "Bakery Fresh Goodness",
         "category": "Bakery",
         "description": "Bakery Fresh Goodness Bolillo Roll",
@@ -294,8 +284,8 @@
       {
         "brand": "Ball Park",
         "category": "Bakery",
-        "description": "Ball Park White Hamburger Buns",
-        "size": "8 ct / 15 oz",
+        "description": "Ball Park Bakery Fresh White Hot Dog Buns",
+        "size": "8 ct / 13 oz",
         "price": 3.99,
         "on_sale": false,
         "unit_price": 0.499,
@@ -310,6 +300,16 @@
         "on_sale": false,
         "unit_price": 0.108,
         "unit": "oz"
+      },
+      {
+        "brand": "Ball Park",
+        "category": "Bakery",
+        "description": "Ball Park White Hamburger Buns",
+        "size": "8 ct / 15 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "ct"
       },
       {
         "brand": "Sister Schubert's",
@@ -342,16 +342,6 @@
         "unit": "oz"
       },
       {
-        "brand": "California Goldminer",
-        "category": "Bakery",
-        "description": "California Goldminer Sourdough Square Bread",
-        "size": "24 oz",
-        "price": 5.49,
-        "on_sale": false,
-        "unit_price": 0.229,
-        "unit": "oz"
-      },
-      {
         "brand": "Guerrero",
         "category": "International",
         "description": "Guerrero White Corn Tortillas 80 Count",
@@ -372,6 +362,16 @@
         "unit": "ct"
       },
       {
+        "brand": "California Goldminer",
+        "category": "Bakery",
+        "description": "California Goldminer Sourdough Square Bread",
+        "size": "24 oz",
+        "price": 5.49,
+        "on_sale": false,
+        "unit_price": 0.229,
+        "unit": "oz"
+      },
+      {
         "brand": "Mission",
         "category": "International",
         "description": "Mission\u00ae Carb Balance\u00ae Soft Taco Flour Tortillas",
@@ -379,6 +379,16 @@
         "price": 5.49,
         "on_sale": false,
         "unit_price": 0.686,
+        "unit": "ct"
+      },
+      {
+        "brand": "New York Bakery",
+        "category": "Frozen",
+        "description": "New York Bakery Real Garlic Texas Toast",
+        "size": "8 ct / 11.25 oz",
+        "price": 3.29,
+        "on_sale": false,
+        "unit_price": 0.411,
         "unit": "ct"
       },
       {
@@ -390,16 +400,6 @@
         "on_sale": false,
         "unit_price": 0.2,
         "unit": "ct"
-      },
-      {
-        "brand": "Guerrero",
-        "category": "International",
-        "description": "Guerrero Tostadas Caseras Amarillas",
-        "size": "12.8 oz",
-        "price": 2.89,
-        "on_sale": false,
-        "unit_price": 0.226,
-        "unit": "oz"
       }
     ]
   },
@@ -417,6 +417,16 @@
         "on_sale": false,
         "unit_price": 0.873,
         "unit": "ct"
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O Lakes\u00ae Salted Butter Sticks",
+        "size": "1 lb",
+        "price": 5.29,
+        "on_sale": false,
+        "unit_price": 0.331,
+        "unit": "oz"
       },
       {
         "brand": "Blue Bonnet",
@@ -441,12 +451,12 @@
       {
         "brand": "Land O' Lakes",
         "category": "Dairy",
-        "description": "Land O Lakes\u00ae Salted Butter Sticks",
-        "size": "1 lb",
-        "price": 5.29,
+        "description": "Land O\u2019 Lakes Half Stick Salted Butter",
+        "size": "8 ct / 2 oz",
+        "price": 4.99,
         "on_sale": false,
-        "unit_price": 0.331,
-        "unit": "oz"
+        "unit_price": 0.624,
+        "unit": "ct"
       },
       {
         "brand": "Country Crock",
@@ -459,13 +469,13 @@
         "unit": "oz"
       },
       {
-        "brand": "Land O' Lakes",
+        "brand": "Kerrygold",
         "category": "Dairy",
-        "description": "Land O\u2019 Lakes Half Stick Salted Butter",
-        "size": "8 ct / 2 oz",
-        "price": 4.99,
+        "description": "Kerrygold Pure Irish Butter",
+        "size": "2 ct / 4 oz",
+        "price": 5.29,
         "on_sale": false,
-        "unit_price": 0.624,
+        "unit_price": 2.645,
         "unit": "ct"
       },
       {
@@ -477,6 +487,16 @@
         "on_sale": false,
         "unit_price": 1.248,
         "unit": "ct"
+      },
+      {
+        "brand": "Land O' Lakes",
+        "category": "Dairy",
+        "description": "Land O\u2019 Lakes\u00ae Unsalted Half Stick Butter",
+        "size": "16 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.312,
+        "unit": "oz"
       },
       {
         "brand": "I Can't Believe It's Not Butter!",
@@ -496,16 +516,6 @@
         "price": 5.39,
         "on_sale": true,
         "unit_price": 0.337,
-        "unit": "oz"
-      },
-      {
-        "brand": "Land O' Lakes",
-        "category": "Dairy",
-        "description": "Land O\u2019 Lakes\u00ae Unsalted Half Stick Butter",
-        "size": "16 oz",
-        "price": 4.99,
-        "on_sale": false,
-        "unit_price": 0.312,
         "unit": "oz"
       },
       {
@@ -556,16 +566,6 @@
         "price": 4.99,
         "on_sale": false,
         "unit_price": 0.312,
-        "unit": "oz"
-      },
-      {
-        "brand": "Challenge",
-        "category": "Dairy",
-        "description": "Challenge Unsalted Butter",
-        "size": "1 lb",
-        "price": 5.39,
-        "on_sale": true,
-        "unit_price": 0.337,
         "unit": "oz"
       }
     ]
@@ -626,6 +626,16 @@
         "unit": "ct"
       },
       {
+        "brand": "Philadelphia",
+        "category": "Automotive",
+        "description": "Philadelphia Original Cream Cheese",
+        "size": "8 oz",
+        "price": 2.49,
+        "on_sale": true,
+        "unit_price": 0.311,
+        "unit": "oz"
+      },
+      {
         "brand": "Kroger",
         "category": "Automotive",
         "description": "Kroger\u00ae Shredded Low-Moisture Mozzarella Cheese",
@@ -656,13 +666,13 @@
         "unit": "oz"
       },
       {
-        "brand": "Philadelphia",
+        "brand": "Kroger",
         "category": "Automotive",
-        "description": "Philadelphia Original Cream Cheese",
+        "description": "Kroger\u00ae Shredded Mild Cheddar Cheese",
         "size": "8 oz",
-        "price": 2.49,
-        "on_sale": true,
-        "unit_price": 0.311,
+        "price": 2,
+        "on_sale": false,
+        "unit_price": 0.25,
         "unit": "oz"
       },
       {
@@ -673,16 +683,6 @@
         "price": 1.99,
         "on_sale": false,
         "unit_price": 0.249,
-        "unit": "oz"
-      },
-      {
-        "brand": "Kroger",
-        "category": "Automotive",
-        "description": "Kroger\u00ae Shredded Mild Cheddar Cheese",
-        "size": "8 oz",
-        "price": 2,
-        "on_sale": false,
-        "unit_price": 0.25,
         "unit": "oz"
       },
       {
@@ -853,16 +853,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Chobani",
-        "category": "Dairy",
-        "description": "Chobani Flip S'more S'mores Low-Fat Greek Yogurt",
-        "size": "5.3 oz",
-        "price": 1.79,
-        "on_sale": false,
-        "unit_price": 0.338,
-        "unit": "oz"
-      },
-      {
         "brand": "Yoplait",
         "category": "Dairy",
         "description": "Yoplait\u00ae Original Cherry Orchard Low Fat Yogurt",
@@ -870,16 +860,6 @@
         "price": 0.8,
         "on_sale": false,
         "unit_price": 0.133,
-        "unit": "oz"
-      },
-      {
-        "brand": "Chobani",
-        "category": "Dairy",
-        "description": "Chobani Flip Peanut Butter Cup Low-Fat Greek Yogurt",
-        "size": "5.3 oz",
-        "price": 1.79,
-        "on_sale": false,
-        "unit_price": 0.338,
         "unit": "oz"
       },
       {
@@ -893,6 +873,26 @@
         "unit": "oz"
       },
       {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani Flip S'more S'mores Low-Fat Greek Yogurt",
+        "size": "5.3 oz",
+        "price": 1.79,
+        "on_sale": false,
+        "unit_price": 0.338,
+        "unit": "oz"
+      },
+      {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani Flip Peanut Butter Cup Low-Fat Greek Yogurt",
+        "size": "5.3 oz",
+        "price": 1.79,
+        "on_sale": false,
+        "unit_price": 0.338,
+        "unit": "oz"
+      },
+      {
         "brand": "Fage",
         "category": "Dairy",
         "description": "Fage Total 2% Greek Strained Yogurt",
@@ -900,16 +900,6 @@
         "price": 7.29,
         "on_sale": false,
         "unit_price": 0.207,
-        "unit": "oz"
-      },
-      {
-        "brand": "Chobani",
-        "category": "Dairy",
-        "description": "Chobani\u00ae Flip\u00ae Low-Fat Key Lime Crumble\u2122 Greek Yogurt",
-        "size": "4.5 oz",
-        "price": 1.79,
-        "on_sale": false,
-        "unit_price": 0.398,
         "unit": "oz"
       },
       {
@@ -960,6 +950,16 @@
         "price": 7.29,
         "on_sale": false,
         "unit_price": 0.228,
+        "unit": "oz"
+      },
+      {
+        "brand": "Chobani",
+        "category": "Dairy",
+        "description": "Chobani\u00ae Flip\u00ae Low-Fat Key Lime Crumble\u2122 Greek Yogurt",
+        "size": "4.5 oz",
+        "price": 1.79,
+        "on_sale": false,
+        "unit_price": 0.398,
         "unit": "oz"
       }
     ]
@@ -1070,16 +1070,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Barilla",
-        "category": "Pasta, Sauces, Grain",
-        "description": "Barilla Thin Spaghetti Pasta",
-        "size": "16 oz",
-        "price": 1.99,
-        "on_sale": false,
-        "unit_price": 0.124,
-        "unit": "oz"
-      },
-      {
         "brand": "Maruchan",
         "category": "Canned & Packaged",
         "description": "Maruchan Beef Flavored Ramen Noodle Soup 12 Count",
@@ -1090,13 +1080,13 @@
         "unit": "ct"
       },
       {
-        "brand": "Prego (3953)",
+        "brand": "Barilla",
         "category": "Pasta, Sauces, Grain",
-        "description": "Prego Roasted Garlic & Herb Italian Pasta Sauce",
-        "size": "24 oz",
-        "price": 2.79,
+        "description": "Barilla Thin Spaghetti Pasta",
+        "size": "16 oz",
+        "price": 1.99,
         "on_sale": false,
-        "unit_price": 0.116,
+        "unit_price": 0.124,
         "unit": "oz"
       },
       {
@@ -1107,6 +1097,16 @@
         "price": 2,
         "on_sale": true,
         "unit_price": 0.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Prego (3953)",
+        "category": "Pasta, Sauces, Grain",
+        "description": "Prego Roasted Garlic & Herb Italian Pasta Sauce",
+        "size": "24 oz",
+        "price": 2.79,
+        "on_sale": false,
+        "unit_price": 0.116,
         "unit": "oz"
       },
       {
@@ -1132,7 +1132,7 @@
       {
         "brand": "Barilla",
         "category": "Pasta, Sauces, Grain",
-        "description": "Barilla Angel Hair Pasta",
+        "description": "Barilla Elbows Pasta",
         "size": "16 oz",
         "price": 1.99,
         "on_sale": false,
@@ -1142,7 +1142,7 @@
       {
         "brand": "Barilla",
         "category": "Pasta, Sauces, Grain",
-        "description": "Barilla Elbows Pasta",
+        "description": "Barilla Angel Hair Pasta",
         "size": "16 oz",
         "price": 1.99,
         "on_sale": false,
@@ -1277,16 +1277,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Cheerios",
-        "category": "Other New",
-        "description": "Cheerios Toasted Whole Grain Oat Cereal",
-        "size": "20 oz",
-        "price": 6.49,
-        "on_sale": true,
-        "unit_price": 0.325,
-        "unit": "oz"
-      },
-      {
         "brand": "Cinnamon Toast Crunch",
         "category": "Other New",
         "description": "General Mills Cinnamon Toast Crunch Large Size Cereal",
@@ -1304,6 +1294,16 @@
         "price": 1.99,
         "on_sale": false,
         "unit_price": 0.111,
+        "unit": "oz"
+      },
+      {
+        "brand": "Cheerios",
+        "category": "Other New",
+        "description": "Cheerios Toasted Whole Grain Oat Cereal",
+        "size": "20 oz",
+        "price": 6.49,
+        "on_sale": true,
+        "unit_price": 0.325,
         "unit": "oz"
       },
       {
@@ -1601,16 +1601,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Ball Park",
-        "category": "Bakery",
-        "description": "Ball Park White Hamburger Buns",
-        "size": "8 ct / 15 oz",
-        "price": 3.99,
-        "on_sale": false,
-        "unit_price": 0.499,
-        "unit": "ct"
-      },
-      {
         "brand": "Kroger",
         "category": "Meat & Seafood",
         "description": "Kroger\u00ae 85% Lean Fresh Ground Turkey",
@@ -1629,6 +1619,16 @@
         "on_sale": false,
         "unit_price": 0.406,
         "unit": "oz"
+      },
+      {
+        "brand": "Ball Park",
+        "category": "Bakery",
+        "description": "Ball Park White Hamburger Buns",
+        "size": "8 ct / 15 oz",
+        "price": 3.99,
+        "on_sale": false,
+        "unit_price": 0.499,
+        "unit": "ct"
       },
       {
         "brand": "Jennie-O",
@@ -1661,16 +1661,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Perdue",
-        "category": "Meat & Seafood",
-        "description": "Perdue Fresh Ground Chicken",
-        "size": "16 oz",
-        "price": 4.99,
-        "on_sale": false,
-        "unit_price": 0.312,
-        "unit": "oz"
-      },
-      {
         "brand": "Kroger",
         "category": "Meat & Seafood",
         "description": "Kroger\u00ae 73/27 Ground Beef Roll",
@@ -1678,6 +1668,16 @@
         "price": 17.99,
         "on_sale": false,
         "unit_price": 0.375,
+        "unit": "oz"
+      },
+      {
+        "brand": "Perdue",
+        "category": "Meat & Seafood",
+        "description": "Perdue Fresh Ground Chicken",
+        "size": "16 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.312,
         "unit": "oz"
       },
       {
@@ -1701,16 +1701,6 @@
         "unit": "oz"
       },
       {
-        "brand": "St Pierre",
-        "category": "Bakery",
-        "description": "St Pierre Brioche Hamburger Buns 4 Count",
-        "size": "7 oz",
-        "price": 4.99,
-        "on_sale": false,
-        "unit_price": 0.713,
-        "unit": "oz"
-      },
-      {
         "brand": "Kroger",
         "category": "Meat & Seafood",
         "description": "Kroger\u00ae 73/27 Ground Beef Roll",
@@ -1718,6 +1708,16 @@
         "price": 27.99,
         "on_sale": false,
         "unit_price": 0.35,
+        "unit": "oz"
+      },
+      {
+        "brand": "St Pierre",
+        "category": "Bakery",
+        "description": "St Pierre Brioche Hamburger Buns 4 Count",
+        "size": "7 oz",
+        "price": 4.99,
+        "on_sale": false,
+        "unit_price": 0.713,
         "unit": "oz"
       },
       {
@@ -1818,16 +1818,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Reese's Puffs",
-        "category": "Other New",
-        "description": "Reese's Puffs Peanut Butter and Chocolate Whole Grain Breakfast Cereal",
-        "size": "11.5 oz",
-        "price": 3.79,
-        "on_sale": true,
-        "unit_price": 0.33,
-        "unit": "oz"
-      },
-      {
         "brand": "Jif",
         "category": "Condiment & Sauces",
         "description": "Jif\u00ae Creamy Peanut Butter",
@@ -1838,13 +1828,23 @@
         "unit": "oz"
       },
       {
+        "brand": "Reese's Puffs",
+        "category": "Other New",
+        "description": "Reese's Puffs Peanut Butter and Chocolate Whole Grain Breakfast Cereal",
+        "size": "11.5 oz",
+        "price": 3.79,
+        "on_sale": true,
+        "unit_price": 0.33,
+        "unit": "oz"
+      },
+      {
         "brand": "Uncrustables",
         "category": "Frozen",
-        "description": "Smucker's Uncrustables Peanut Butter and Strawberry Jam Sandwich",
-        "size": "4 ct / 2.0 oz",
-        "price": 4.79,
+        "description": "Smucker's\u00ae Uncrustables\u00ae Peanut Butter & Strawberry Jam Sandwiches",
+        "size": "10 ct / 2 oz",
+        "price": 10.49,
         "on_sale": false,
-        "unit_price": 1.198,
+        "unit_price": 1.049,
         "unit": "ct"
       },
       {
@@ -1860,11 +1860,11 @@
       {
         "brand": "Uncrustables",
         "category": "Frozen",
-        "description": "Smucker's\u00ae Uncrustables\u00ae Peanut Butter & Strawberry Jam Sandwiches",
-        "size": "10 ct / 2 oz",
-        "price": 10.49,
+        "description": "Smucker's Uncrustables Peanut Butter and Strawberry Jam Sandwich",
+        "size": "4 ct / 2.0 oz",
+        "price": 4.79,
         "on_sale": false,
-        "unit_price": 1.049,
+        "unit_price": 1.198,
         "unit": "ct"
       },
       {
@@ -1938,14 +1938,14 @@
         "unit": null
       },
       {
-        "brand": "Ritz",
-        "category": "Other New",
-        "description": "Ritz Peanut Butter Sandwich Crackers",
-        "size": "11.04 oz",
-        "price": 4.99,
+        "brand": "Uncrustables",
+        "category": "Frozen",
+        "description": "Smucker's\u00ae Uncrustables\u00ae Peanut Butter & Grape Jelly Sandwich",
+        "size": "15 ct",
+        "price": 14.49,
         "on_sale": false,
-        "unit_price": 0.452,
-        "unit": "oz"
+        "unit_price": 0.966,
+        "unit": "ct"
       }
     ]
   },
@@ -2065,16 +2065,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Kroger",
-        "category": "Breakfast",
-        "description": "Kroger\u00ae Cinnamon Swirls",
-        "size": "12.8 oz",
-        "price": 2.29,
-        "on_sale": false,
-        "unit_price": 0.179,
-        "unit": "oz"
-      },
-      {
         "brand": "Tropicana",
         "category": "Breakfast",
         "description": "Tropicana Orange Juice Grovestand Lots of Pulp 52 oz Bottle",
@@ -2085,14 +2075,14 @@
         "unit": "fl oz"
       },
       {
-        "brand": "Tropicana",
+        "brand": "Kroger",
         "category": "Breakfast",
-        "description": "Tropicana Orange Juice Homestyle Some Pulp 52 oz Bottle",
-        "size": "52 fl oz",
-        "price": 4.49,
+        "description": "Kroger\u00ae Cinnamon Swirls",
+        "size": "12.8 oz",
+        "price": 2.29,
         "on_sale": false,
-        "unit_price": 0.086,
-        "unit": "fl oz"
+        "unit_price": 0.179,
+        "unit": "oz"
       },
       {
         "brand": "Kroger",
@@ -2107,7 +2097,17 @@
       {
         "brand": "Tropicana",
         "category": "Breakfast",
-        "description": "Tropicana Orange Juice No Pulp with Calcium + Vitamin D 52 oz Bottle",
+        "description": "Tropicana Orange Juice Homestyle Some Pulp 52 oz Bottle",
+        "size": "52 fl oz",
+        "price": 4.49,
+        "on_sale": false,
+        "unit_price": 0.086,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Tropicana",
+        "category": "Breakfast",
+        "description": "Tropicana Pure Premium Non GMO, Original No Pulp Orange Fruit Juice",
         "size": "52 fl oz",
         "price": 4.49,
         "on_sale": false,
@@ -2125,11 +2125,11 @@
         "brand": "Kroger",
         "category": "Beverages",
         "description": "Kroger\u00ae 2% Reduced Fat Milk Gallon",
-        "size": "1 gal",
+        "size": "10 ct / 1.24 oz",
         "price": 3.29,
         "on_sale": false,
-        "unit_price": 0.026,
-        "unit": "fl oz"
+        "unit_price": 0.329,
+        "unit": "ct"
       },
       {
         "brand": "Kroger",
@@ -2202,6 +2202,16 @@
         "unit": "fl oz"
       },
       {
+        "brand": "Kroger",
+        "category": "Baking Goods",
+        "description": "Kroger\u00ae Evaporated Milk",
+        "size": "12 fl oz",
+        "price": 1.19,
+        "on_sale": false,
+        "unit_price": 0.099,
+        "unit": "fl oz"
+      },
+      {
         "brand": "Simple Truth Organic",
         "category": "Beverages",
         "description": "Simple Truth Organic\u00ae Whole Milk",
@@ -2209,6 +2219,16 @@
         "price": 4.39,
         "on_sale": false,
         "unit_price": 0.069,
+        "unit": "fl oz"
+      },
+      {
+        "brand": "Fairlife",
+        "category": "Beverages",
+        "description": "Fairlife Whole Milk Ultra-Filtered",
+        "size": "52 fl oz",
+        "price": 5.99,
+        "on_sale": false,
+        "unit_price": 0.115,
         "unit": "fl oz"
       },
       {
@@ -2222,26 +2242,6 @@
         "unit": null
       },
       {
-        "brand": "Fage",
-        "category": "Dairy",
-        "description": "Fage Total 0% Milkfat Plain Greek Yogurt",
-        "size": "32 oz",
-        "price": 7.29,
-        "on_sale": false,
-        "unit_price": 0.228,
-        "unit": "oz"
-      },
-      {
-        "brand": "Fairlife",
-        "category": "Beverages",
-        "description": "Fairlife Whole Milk Ultra-Filtered",
-        "size": "52 fl oz",
-        "price": 5.99,
-        "on_sale": false,
-        "unit_price": 0.115,
-        "unit": "fl oz"
-      },
-      {
         "brand": "Good Culture",
         "category": "Automotive",
         "description": "Good Culture Simply Cottage Cheese, 2% Milkfat, 16 oz",
@@ -2252,14 +2252,14 @@
         "unit": "oz"
       },
       {
-        "brand": "Kroger",
-        "category": "Baking Goods",
-        "description": "Kroger\u00ae Evaporated Milk",
-        "size": "12 fl oz",
-        "price": 1.19,
+        "brand": "Fage",
+        "category": "Dairy",
+        "description": "Fage Total 0% Milkfat Plain Greek Yogurt",
+        "size": "32 oz",
+        "price": 7.29,
         "on_sale": false,
-        "unit_price": 0.099,
-        "unit": "fl oz"
+        "unit_price": 0.228,
+        "unit": "oz"
       },
       {
         "brand": "Kroger",
@@ -2282,6 +2282,16 @@
         "unit": "fl oz"
       },
       {
+        "brand": "Carnation",
+        "category": "Baking Goods",
+        "description": "Carnation Evaporated Milk",
+        "size": "12 fl oz",
+        "price": 2.19,
+        "on_sale": false,
+        "unit_price": 0.182,
+        "unit": "fl oz"
+      },
+      {
         "brand": "Reese's",
         "category": "Candy",
         "description": "Reeses Milk Chocolate Peanut Butter Cup Standard Bar",
@@ -2300,16 +2310,6 @@
         "on_sale": false,
         "unit_price": 0.299,
         "unit": "oz"
-      },
-      {
-        "brand": "Carnation",
-        "category": "Baking Goods",
-        "description": "Carnation Evaporated Milk",
-        "size": "12 fl oz",
-        "price": 2.19,
-        "on_sale": false,
-        "unit_price": 0.182,
-        "unit": "fl oz"
       },
       {
         "brand": "Lactaid",
@@ -2389,16 +2389,6 @@
         "unit": "oz"
       },
       {
-        "brand": "RiceSelect",
-        "category": "Bed & Bath",
-        "description": "RiceSelect Jasmati White Rice",
-        "size": "32 oz",
-        "price": 7.29,
-        "on_sale": false,
-        "unit_price": 0.228,
-        "unit": "oz"
-      },
-      {
         "brand": "Lundberg",
         "category": "Bed & Bath",
         "description": "Lundberg Family Farms\u00ae Organic California White Basmati Rice",
@@ -2406,6 +2396,16 @@
         "price": 6.49,
         "on_sale": true,
         "unit_price": 0.203,
+        "unit": "oz"
+      },
+      {
+        "brand": "RiceSelect",
+        "category": "Bed & Bath",
+        "description": "RiceSelect Jasmati White Rice",
+        "size": "32 oz",
+        "price": 7.29,
+        "on_sale": false,
+        "unit_price": 0.228,
         "unit": "oz"
       },
       {
@@ -2546,26 +2546,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Seattle's Best Coffee",
-        "category": "Beverages",
-        "description": "Seattle's Best Medium Roast Breakfast Blend Ground Coffee",
-        "size": "12 oz",
-        "price": 8.99,
-        "on_sale": true,
-        "unit_price": 0.749,
-        "unit": "oz"
-      },
-      {
-        "brand": "Kroger",
-        "category": "Beverages",
-        "description": "Kroger\u00ae Colombian Medium Dark Roast Coffee",
-        "size": "24 oz",
-        "price": 14.49,
-        "on_sale": false,
-        "unit_price": 0.604,
-        "unit": "oz"
-      },
-      {
         "brand": "Dunkin' Donuts",
         "category": "Beverages",
         "description": "Dunkin' Donuts Original Blend Medium Roast Ground Coffee",
@@ -2573,6 +2553,16 @@
         "price": 11.99,
         "on_sale": false,
         "unit_price": 0.999,
+        "unit": "oz"
+      },
+      {
+        "brand": "Seattle's Best Coffee",
+        "category": "Beverages",
+        "description": "Seattle's Best Medium Roast Breakfast Blend Ground Coffee",
+        "size": "12 oz",
+        "price": 8.99,
+        "on_sale": true,
+        "unit_price": 0.749,
         "unit": "oz"
       },
       {
@@ -2596,9 +2586,29 @@
         "unit": "oz"
       },
       {
+        "brand": "Kroger",
+        "category": "Beverages",
+        "description": "Kroger\u00ae Colombian Medium Dark Roast Coffee",
+        "size": "24 oz",
+        "price": 14.49,
+        "on_sale": false,
+        "unit_price": 0.604,
+        "unit": "oz"
+      },
+      {
         "brand": "Starbucks",
         "category": "Beverages",
         "description": "Starbucks\u00ae House Blend Medium Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 12.99,
+        "on_sale": false,
+        "unit_price": 1.083,
+        "unit": "oz"
+      },
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks Veranda Blend Blonde Roast Ground Coffee",
         "size": "12 oz",
         "price": 12.99,
         "on_sale": false,
@@ -2616,16 +2626,6 @@
         "unit": "oz"
       },
       {
-        "brand": "Starbucks",
-        "category": "Beverages",
-        "description": "Starbucks Veranda Blend Blonde Roast Ground Coffee",
-        "size": "12 oz",
-        "price": 12.99,
-        "on_sale": false,
-        "unit_price": 1.083,
-        "unit": "oz"
-      },
-      {
         "brand": "Kauai Coffee",
         "category": "Beverages",
         "description": "Kauai Coffee Medium Roast Ground Coffee",
@@ -2636,13 +2636,13 @@
         "unit": "oz"
       },
       {
-        "brand": "Seattle's Best Coffee",
+        "brand": "Starbucks",
         "category": "Beverages",
-        "description": "Seattle's Best Post Alley Blend Dark Roast Ground Coffee",
-        "size": "12 oz",
-        "price": 8.99,
-        "on_sale": true,
-        "unit_price": 0.749,
+        "description": "Starbucks Breakfast Blend Medium Roast Ground Coffee K-Cup Pods 10 Count",
+        "size": "4.4 oz",
+        "price": 11.99,
+        "on_sale": false,
+        "unit_price": 2.725,
         "unit": "oz"
       },
       {
@@ -2653,16 +2653,6 @@
         "price": 12.99,
         "on_sale": false,
         "unit_price": 1.083,
-        "unit": "oz"
-      },
-      {
-        "brand": "Starbucks",
-        "category": "Beverages",
-        "description": "Starbucks Breakfast Blend Medium Roast Ground Coffee K-Cup Pods 10 Count",
-        "size": "4.4 oz",
-        "price": 11.99,
-        "on_sale": false,
-        "unit_price": 2.725,
         "unit": "oz"
       },
       {
@@ -2686,13 +2676,23 @@
         "unit": "oz"
       },
       {
-        "brand": "Chock full o'Nuts",
+        "brand": "Seattle's Best Coffee",
         "category": "Beverages",
-        "description": "Chock Full o' Nuts Original Medium Roast Ground Coffee",
-        "size": "26 oz",
-        "price": 14.99,
+        "description": "Seattle's Best Post Alley Blend Dark Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 8.99,
         "on_sale": true,
-        "unit_price": 0.577,
+        "unit_price": 0.749,
+        "unit": "oz"
+      },
+      {
+        "brand": "Starbucks",
+        "category": "Beverages",
+        "description": "Starbucks Caffe Verona Dark Roast Ground Coffee",
+        "size": "12 oz",
+        "price": 12.99,
+        "on_sale": false,
+        "unit_price": 1.083,
         "unit": "oz"
       }
     ]

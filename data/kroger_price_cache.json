@@ -2107,7 +2107,7 @@
       {
         "brand": "Tropicana",
         "category": "Breakfast",
-        "description": "Tropicana Pure Premium Non GMO, Original No Pulp Orange Fruit Juice",
+        "description": "Tropicana Orange Juice No Pulp with Calcium + Vitamin D 52 oz Bottle",
         "size": "52 fl oz",
         "price": 4.49,
         "on_sale": false,
@@ -2125,11 +2125,11 @@
         "brand": "Kroger",
         "category": "Beverages",
         "description": "Kroger\u00ae 2% Reduced Fat Milk Gallon",
-        "size": "10 ct / 1.24 oz",
+        "size": "3 oz",
         "price": 3.29,
         "on_sale": false,
-        "unit_price": 0.329,
-        "unit": "ct"
+        "unit_price": 1.097,
+        "unit": "oz"
       },
       {
         "brand": "Kroger",
